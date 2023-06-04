@@ -14,6 +14,7 @@ packages=(
     falkon
     bleachbit
     uget
+    nmap
     megasync
     git
     net-tools
