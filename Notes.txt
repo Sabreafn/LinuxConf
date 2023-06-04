@@ -1,0 +1,8 @@
+Nessus Init:
+systemctl start nessusd.service
+https://localhost:8834
+
+Searchsploit CMD's:
+searchsploit -u (Update DB)
+search sploit <cve/service>
+searchsploit -x <id>
